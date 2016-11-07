@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PCBDriller.Form1.resources
+obj\Debug\PCBDriller.Properties.Resources.resources
+obj\Debug\PCBDriller.csproj.GenerateResource.Cache
+bin\Debug\PCBDriller.exe
+bin\Debug\PCBDriller.pdb
+obj\Debug\PCBDriller.exe
+obj\Debug\PCBDriller.pdb
+obj\Debug\PCBDriller.frmAbout.resources
+obj\Debug\PCBDriller.wait.resources
+obj\Debug\PCBDriller.options.resources
